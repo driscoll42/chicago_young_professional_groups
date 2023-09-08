@@ -1,4 +1,4 @@
-# chicago_young_professional_groups
+# Chicago Young Professional Groups
 A list of various Chicago Young Professional Groups/Associate Boards
 
 
