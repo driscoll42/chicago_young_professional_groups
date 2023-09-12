@@ -29,6 +29,8 @@ Volunteer Organizations
 
 [Union League Girls and Boys Club Associate Board](https://ulbgc.org/associate-board/) - is composed of emerging leaders striving for involvement and leadership in the Chicago community.
 
+[826CHI](https://www.826chi.org/get-involved#volunteer)
+
 Young Associate Boards
 
 [American Liver Foundation Young Associate Board](https://liverab.org/) - is a group of young professionals who are determined to educate young professionals about liver health, create funds for patient services and research on liver disease, and improve the lives of individuals and their families affected by liver disease.
