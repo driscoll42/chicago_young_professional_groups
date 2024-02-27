@@ -121,13 +121,22 @@ Young Associate Boards
 [Young Professionals Network of the Chicago Council on Global Affairs](https://globalaffairs.org/get-involved/young-professionals-network)
 
 [Lincoln Park Zoo Auxiliary Board](https://www.lpzoo.org/about-the-zoo/leadership/auxilary-board/)
+
 [Ravinia Festival Associates Board](https://www.ravinia.org/Associates)
+
 [Chicago Bar Association Young Lawyers Section](https://www.chicagobar.org/chicagobar/CBA/YLS_Students/CBA/YLS_Law_Students/YLS_Welcome.aspx?hkey=21e40a44-10f3-4424-a034-f3ee6a412448)
+
 [Field Museum’s Field Associates](https://www.fieldmuseum.org/support/ways-to-give/auxiliary-groups/field-associates)
+
 [Associate Board of the Rehab Institute](https://www.sralab.org/give/leadership/associate-board)
+
 [Jewish United Fund (JUF), multiple groups for young professionals](https://www.juf.org/error/error.html?aspxerrorpath=/professionals/young_professionals.aspx)
+
 [UNICEF Next Generation](https://www.unicefusa.org/about-unicef-usa/leadership/next-gen)
-[The Chicago Community Trust Young Leaders Fund](https://www.cct.org/young-leaders-fund/)https://www.cct.org/young-leaders-fund/
+
+[The Chicago Community Trust Young Leaders Fund](https://www.cct.org/young-leaders-fund/)
 [Chicago Coalition for the Homeless Associate Board](https://www.chicagohomeless.org/about/associate-board/)
+
 [Swedisn American Chamber of Commerce Young Professionals](https://www.sacc-chicago.org/young-professionals-2)
+
 [Chicago Engineers' Foundation Associate Board](https://www.chicagoengineersfoundation.org/)
