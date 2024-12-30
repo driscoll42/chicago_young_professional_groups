@@ -140,3 +140,5 @@ Young Associate Boards
 [Swedisn American Chamber of Commerce Young Professionals](https://www.sacc-chicago.org/young-professionals-2)
 
 [Chicago Engineers' Foundation Associate Board](https://www.chicagoengineersfoundation.org/)
+
+[Chicago Public Library](https://cplfoundation.org/associate-board/)
