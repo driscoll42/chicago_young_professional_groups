@@ -1,7 +1,7 @@
 # Chicago Young Professional Groups
 A list of various Chicago Young Professional Groups/Associate Boards
 
-Will modify over time, but right now, since it now a defunct website, this is mostly a copy with regorganization and some additions of:https://web.archive.org/web/20220518221254/https://www.chicagogrouptravel.com/post/chicago-young-professionals-volunteer-and-make-new-friends
+Will modify over time, but right now, since it now a defunct website, this is mostly a copy with regorganization and some additions of: https://web.archive.org/web/20220518221254/https://www.chicagogrouptravel.com/post/chicago-young-professionals-volunteer-and-make-new-friends
 
 
 # How to Make a Difference While Networking!
