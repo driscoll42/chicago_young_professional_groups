@@ -85,7 +85,7 @@ The first step is identifying what kind of an organization best fits you. Would 
 * [Chicago Engineers' Foundation Associate Board](https://www.chicagoengineersfoundation.org/) - supports engineering education and career development for Chicago students through mentorship, scholarships, and professional networking.
 * [Swedish American Chamber of Commerce Young Professionals](https://www.sacc-chicago.org/young-professionals-2) - connects young professionals interested in Swedish-American business relations through networking, professional development, and cultural exchange.
 * [Young Professionals Network of the Chicago Council on Global Affairs](https://globalaffairs.org/get-involved/young-professionals-network) - brings together emerging leaders interested in global affairs through policy discussions, networking events, and educational programming.
-* 
+
 ## Environmental & Wildlife Conservation
 
 * [Auxiliary Board of Shedd Aquarium](https://www.sheddaquarium.org/about-shedd/support-us/auxiliary-board) - is dedicated to supporting Shedd's mission of animal care, conservation, and education while providing young professionals with unique opportunities to engage with marine life and environmental conservation.
