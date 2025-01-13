@@ -1,11 +1,10 @@
 # Chicago Young Professional Groups
 A list of various Chicago Young Professional Groups/Associate Boards
 
+Will modify over time, but right now this is a copy of: https://web.archive.org/web/20220518221254/https://www.chicagogrouptravel.com/post/chicago-young-professionals-volunteer-and-make-new-friends
 
-Right now this is a copy of: https://web.archive.org/web/20220518221254/https://www.chicagogrouptravel.com/post/chicago-young-professionals-volunteer-and-make-new-friends
-Will modify over time
 
-How to Make a Difference While Networking!
+# How to Make a Difference While Networking!
 
 A great way to get involved that you may not have considered is joining a nonprofit board.
 
@@ -19,7 +18,7 @@ Volunteer boards require time and energy. Depending on what organization you get
 
 The first step is identifying what kind of an organization best fits you. Would you like to be involved with a charity dealing with homelessness, healthcare, arts, education, disability rights, or environment affairs? The choices are numerous. Which is why we compiled a list of young professional associate boards below. Please take a look below and consider spending your free time helping with a worthy cause!
 
-Volunteer Organizations
+**Volunteer Organizations**
 
 [Volunteering Untapped Chicago](https://volunteeringuntappedchi.org/) - strives to “untap” resources and opportunities in Chicago for those we serve. There’s a huge group of talented young professionals in the city who want to volunteer. We connect those volunteers with a wide array of nonprofits in the Chicagoland area
 
@@ -31,7 +30,7 @@ Volunteer Organizations
 
 [826CHI](https://www.826chi.org/get-involved#volunteer)
 
-Young Associate Boards
+**Young Associate Boards**
 
 [American Liver Foundation Young Associate Board](https://liverab.org/) - is a group of young professionals who are determined to educate young professionals about liver health, create funds for patient services and research on liver disease, and improve the lives of individuals and their families affected by liver disease.
 
@@ -101,44 +100,45 @@ Young Associate Boards
 
 [Infant Welfare Society of Chicago Young Associate Board](https://infantwelfaresociety.org/ab/) - is composed of young professionals passionate about children, families, and healthcare. they dedicate their free time to raising money and awareness for infants in need. 
 
-[Easter Seals](https://www.easterseals.com/chicago/get-involved/associate-board.html)
+[Easter Seals](https://www.easterseals.com/chicago/get-involved/associate-board.html) - is a group of young professionals dedicated to creating opportunities, raising awareness, and generating support for children and adults with disabilities and their families through fundraising events and advocacy. 
 
-[American Cancer Society Associate Board of Ambassadors](https://www.acsaboa.org/)
+[American Cancer Society Associate Board of Ambassadors](https://www.acsaboa.org/) - engages young professionals in the fight against cancer through fundraising, advocacy, and community outreach to support research, education, and patient services. 
 
-[Ann & Robert H. Lurie Children’s Hospital of Chicago Affiliated Board — The Junior Council](https://juniorcouncil.org/)
+[Ann & Robert H. Lurie Children’s Hospital of Chicago Affiliated Board — The Junior Council](https://juniorcouncil.org/) - supports innovative pediatric medical research at Lurie Children's Hospital while connecting young professionals through networking events and fundraising initiatives. 
 
-[Auxiliary Board of Shedd Aquarium](https://www.sheddaquarium.org/about-shedd/support-us/auxiliary-board)
+[Auxiliary Board of Shedd Aquarium](https://www.sheddaquarium.org/about-shedd/support-us/auxiliary-board) - is dedicated to supporting Shedd's mission of animal care, conservation, and education while providing young professionals with unique opportunities to engage with marine life and environmental conservation. 
 
-[Catholic Charities Junior Board](https://www.catholiccharities.net/volunteer-or-join-a-mission-board/)
+[Catholic Charities Junior Board](https://www.catholiccharities.net/volunteer-or-join-a-mission-board/) - unites young professionals in supporting Catholic Charities' mission through fundraising, volunteering, and advocacy to help those in need throughout the Chicago area. 
 
+[Evening Associates of the Art Institute of Chicago](https://www.artic.edu/support-us/art-interest-groups/evening-associates) - connects young professionals with art through exclusive after-hours events, educational programs, and social gatherings that support the museum's mission. 
 
-[Evening Associates of the Art Institute of Chicago](https://www.artic.edu/support-us/art-interest-groups/evening-associates)
+[Joffrey Auxiliary Board](https://joffrey.org/jab) - supports the Joffrey Ballet's artistic excellence and community engagement programs while providing young professionals with opportunities to experience and promote the art of dance. 
 
-[Joffrey Auxiliary Board](https://joffrey.org/jab)
+[Lyric Young Professionals](https://www.lyricopera.org/about/company/board-leadership/lyric-young-professionals-board/) - engages the next generation of opera enthusiasts through special events, educational programs, and networking opportunities that support the Lyric Opera of Chicago.
 
-[Lyric Young Professionals](https://www.lyricopera.org/about/company/board-leadership/lyric-young-professionals-board/)
+[Young Professionals Network of the Chicago Council on Global Affairs](https://globalaffairs.org/get-involved/young-professionals-network) - brings together emerging leaders interested in global affairs through policy discussions, networking events, and educational programming. 
 
-[Young Professionals Network of the Chicago Council on Global Affairs](https://globalaffairs.org/get-involved/young-professionals-network)
+[Lincoln Park Zoo Auxiliary Board](https://www.lpzoo.org/about-the-zoo/leadership/auxilary-board/) - supports the zoo's mission of wildlife conservation and education while providing young professionals with unique opportunities to engage with animal welfare initiatives. 
 
-[Lincoln Park Zoo Auxiliary Board](https://www.lpzoo.org/about-the-zoo/leadership/auxilary-board/)
+[Ravinia Festival Associates Board](https://www.ravinia.org/Associates) - promotes classical music appreciation among young professionals while supporting Ravinia's mission through fundraising and special events. 
 
-[Ravinia Festival Associates Board](https://www.ravinia.org/Associates)
+[Chicago Bar Association Young Lawyers Section](https://www.chicagobar.org/chicagobar/CBA/YLS_Students/CBA/YLS_Law_Students/YLS_Welcome.aspx?hkey=21e40a44-10f3-4424-a034-f3ee6a412448) - provides professional development, networking opportunities, and community service initiatives for attorneys in their first 10 years of practice. 
 
-[Chicago Bar Association Young Lawyers Section](https://www.chicagobar.org/chicagobar/CBA/YLS_Students/CBA/YLS_Law_Students/YLS_Welcome.aspx?hkey=21e40a44-10f3-4424-a034-f3ee6a412448)
+[Field Museum’s Field Associates](https://www.fieldmuseum.org/support/ways-to-give/auxiliary-groups/field-associates) - connects young professionals with natural history and cultural preservation through exclusive events and educational programs that support the museum's mission. 
 
-[Field Museum’s Field Associates](https://www.fieldmuseum.org/support/ways-to-give/auxiliary-groups/field-associates)
+[Associate Board of the Rehab Institute](https://www.sralab.org/give/leadership/associate-board) - supports the Rehabilitation Institute of Chicago's mission of advancing patient care and research while engaging young professionals in advocacy and fundraising. 
 
-[Associate Board of the Rehab Institute](https://www.sralab.org/give/leadership/associate-board)
+[Jewish United Fund (JUF), multiple groups for young professionals](https://www.juf.org/error/error.html?aspxerrorpath=/professionals/young_professionals.aspx) - offers multiple engagement opportunities for young Jewish professionals to connect, give back to the community, and support Jewish causes through various divisions and programs. 
 
-[Jewish United Fund (JUF), multiple groups for young professionals](https://www.juf.org/error/error.html?aspxerrorpath=/professionals/young_professionals.aspx)
+[UNICEF Next Generation](https://www.unicefusa.org/about-unicef-usa/leadership/next-gen) - engages young professionals in UNICEF's mission to protect children worldwide through advocacy, education, and fundraising initiatives. 
 
-[UNICEF Next Generation](https://www.unicefusa.org/about-unicef-usa/leadership/next-gen)
+[Chicago Coalition for the Homeless Associate Board](https://www.chicagohomeless.org/about/associate-board/) - works to prevent and end homelessness in Chicago through advocacy, fundraising, and awareness campaigns led by young professionals. 
 
-[The Chicago Community Trust Young Leaders Fund](https://www.cct.org/young-leaders-fund/)
-[Chicago Coalition for the Homeless Associate Board](https://www.chicagohomeless.org/about/associate-board/)
+[Swedish American Chamber of Commerce Young Professionals](https://www.sacc-chicago.org/young-professionals-2) - connects young professionals interested in Swedish-American business relations through networking, professional development, and cultural exchange. 
 
-[Swedisn American Chamber of Commerce Young Professionals](https://www.sacc-chicago.org/young-professionals-2)
+[Chicago Engineers' Foundation Associate Board](https://www.chicagoengineersfoundation.org/) - supports engineering education and career development for Chicago students through mentorship, scholarships, and professional networking. 
 
-[Chicago Engineers' Foundation Associate Board](https://www.chicagoengineersfoundation.org/)
+[Chicago Public Library Foundation Junior Board](https://cplfoundation.org/associate-board/) - engages young professionals in supporting literacy, learning, and community engagement through the Chicago Public Library system.
 
-[Chicago Public Library](https://cplfoundation.org/associate-board/)
+[The Chicago Community Trust Young Leaders Fund](https://www.cct.org/young-leaders-fund/) - Empowers young professionals to manage the grantmaking process by researching innovative grassroots organizations, conducting site visits, interviewing staff, and evaluating grant requests for small start-up nonprofits in Chicago with operating budgets under $250,000.
+
